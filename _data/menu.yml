@@ -21,6 +21,14 @@ entries:
         url: Crate
       - title: Album-Cover
         url: Album-Cover
+      - title: Hyundai-Genesis-Coupe
+        url: Hyundai-Genesis-Coupe
+
+  - title: music
+    url: false
+    entries:
+      - title: Fuzz-Pedal
+        url: Fuzz-Pedal
 
   - title: thoughts
     post_list: true
