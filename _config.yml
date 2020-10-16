@@ -19,12 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Grayson Hart
-author: Grayson Hart
-email: graysonchart@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Website of Grayson Hart
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://prophet-of-doom.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.graysonhart.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: riggraz/no-style-please
