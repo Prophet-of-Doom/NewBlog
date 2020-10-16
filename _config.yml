@@ -24,7 +24,7 @@ email: graysonchart@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Website of Grayson Hart
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/Prophet-of-Doom/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://prophet-of-doom.github.io/NewBlog/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: riggraz/no-style-please
