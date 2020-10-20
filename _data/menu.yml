@@ -15,14 +15,13 @@ entries:
     entries:
       - title: The-Night
         url: The-Night
-      - title: Jamie
-        url: Jamie
+      - title: Hyundai-Genesis-Coupe
+        url: Hyundai-Genesis-Coupe
       - title: Crate
         url: Crate
       - title: Album-Cover
-        url: Album-Cover
-      - title: Hyundai-Genesis-Coupe
-        url: Hyundai-Genesis-Coupe
+        url: Album-Cover      
+      - title: Jamie
 
   - title: music
     url: false

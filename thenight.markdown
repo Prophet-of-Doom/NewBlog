@@ -5,9 +5,9 @@ permalink: /The-Night/
 ---
 Concept art for friend's production.
 
-![The-Night](/assets/The-Night.png/)
+[![The-Night](/assets/The-Night.png/)](/assets/The-Night.png)
 
 Layout:
 
-![The-Night](/assets/The-Night-Layout.PNG/)
+[![The-Night](/assets/The-Night-Layout.PNG/)](/assets/The-Night-Layout.PNG)
 
