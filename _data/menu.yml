@@ -22,6 +22,7 @@ entries:
       - title: Album-Cover
         url: Album-Cover      
       - title: Jamie
+	url: Jamie
 
   - title: music
     url: false
